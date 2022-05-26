@@ -1,5 +1,5 @@
 # Hi there 👋, Sanjida Simla
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
  Currently, I'm studying in a B.Sc. program in Information and Communication Engineering (ICE).
 
