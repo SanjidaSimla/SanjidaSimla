@@ -1,11 +1,13 @@
 # Hi there 👋, Sanjida Simla
 
+Graduate in Information Communications and Engineering. Passionate about technology, networking, and solving complex problems. Always eager to learn and contribute to innovation projects.
 
- I'm a graduate of a B.Sc. program in Information and Communication Engineering (ICE).
+Skills:
+Programming Language: C, JAVA, Python<ARM assembly.
+ML and Data Analysis: Pandas, SciPy, Numpy.
+Web Development Language: PHP.
+Software Platform: CodeBlocks, Cisco Packet Tracer< NetBeans, Visual Studio, Kaggle, Canva and Tableau.
 
-Skills: Java, SQL, DBMS, Cisco Networking, Python
-
-- 🌱 I’m currently learning PHP, CSS, HTML 
 - 📫 How to reach me: sanjida.simla55@gmail.com 
 
 
