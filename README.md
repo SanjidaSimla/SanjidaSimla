@@ -1,4 +1,4 @@
-# Hi there 👋, Sanjida Simla
+# Hi there 👋,this is Sanjida Simla
 
 Graduate in Information Communications and Engineering. Passionate about technology, networking, and solving complex problems. Always eager to learn and contribute to innovation projects.
 
