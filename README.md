@@ -1,9 +1,9 @@
 # Hi there 👋, Sanjida Simla
 
 
- Currently, I'm studying in a B.Sc. program in Information and Communication Engineering (ICE).
+ I'm a graduate of a B.Sc. program in Information and Communication Engineering (ICE).
 
-Skills: Java, JavaScript, SQL, C++
+Skills: Java, SQL, DBMS, Cisco Networking, Python
 
 - 🌱 I’m currently learning PHP, CSS, HTML 
 - 📫 How to reach me: sanjida.simla55@gmail.com 
